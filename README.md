@@ -1,5 +1,8 @@
 ## Cássio Leite - Desenvolvedor Front-End
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=988&pause=1000&color=1CDCF9CB&background=172EA000&center=true&width=430&height=108&lines=C%C3%A1ssio+Leite;Desenvolvedor+;Front-End" alt="Typing SVG" /></a>
 ### Perfil em Desenvolvimento
+
+
 
  <div>
    <a href="https://github.com/cassio-leite">
