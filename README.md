@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Cássio Leite Banner" width="100%">
+  <img src="./assets/preview.gif" alt="Cássio Leite Banner" width="100%">
 </p>
 
 <div align="center">
